@@ -1,5 +1,7 @@
-### Hi there 👋
 
+- Estudiante de ingenieria en I.A 
+- Programador Web FullStack
+  
 <!--
 **manurrell/manurrell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
