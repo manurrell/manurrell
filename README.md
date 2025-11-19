@@ -1,4 +1,3 @@
-# Hi there, I'm a Developer & AI Student! 👋
 
 ### 🎓 Estudiante de Inteligencia Artificial @ Universidad de San Andrés
 
@@ -23,13 +22,21 @@ Soy un desarrollador apasionado por la intersección entre el desarrollo web rob
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-**Bases de Datos**
-![SQL](https://img.shields.io/badge/sql-%23003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
+### 📫 Connect with me
 
+<div align="center">
 
-### 📫 Conéctame
+  <a href="https://www.linkedin.com/in/PON_AQUI_TU_USUARIO_LINKEDIN" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
 
-<a href="www.linkedin.com/in/manuel-borrell-008b86293" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tu-linkedin" height="30" width="40" /></a>
-<a href="mailto:borrellmanuel1@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="tu-email" height="30" width="40" /></a>
+  <a href="mailto:TU_EMAIL@GMAIL.COM">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
+  </a>
+
+  <a href="https://TU_WEBSITE.com" target="_blank">
+    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank" />
+  </a>
+
+</div>
