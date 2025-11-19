@@ -1,5 +1,5 @@
 
-### 🎓 Estudiante de Inteligencia Artificial @ Universidad de San Andrés
+### 🎓 Estudiante de Ingeniería en Inteligencia Artificial UdeSa - Universidad de San Andrés
 
 Soy un desarrollador apasionado por la intersección entre el desarrollo web robusto y los modelos de aprendizaje automático. Me encanta moverme por todo el stack, desde el manejo de memoria en C++ hasta la creación de interfaces reactivas y el entrenamiento de redes neuronales.
 
