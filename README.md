@@ -22,17 +22,3 @@ Soy un desarrollador apasionado por la intersección entre el desarrollo web rob
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-
-### 📫 Connect with me
-
-<div align="center">
-
-  <a href="www.linkedin.com/in/manuel-borrell-008b86293" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-
-  <a href="mailto:borrellmanuel1@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
-  </a>
-
-</div>
