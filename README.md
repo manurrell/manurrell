@@ -27,16 +27,12 @@ Soy un desarrollador apasionado por la intersección entre el desarrollo web rob
 
 <div align="center">
 
-  <a href="https://www.linkedin.com/in/PON_AQUI_TU_USUARIO_LINKEDIN" target="_blank">
+  <a href="www.linkedin.com/in/manuel-borrell-008b86293" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
 
-  <a href="mailto:TU_EMAIL@GMAIL.COM">
+  <a href="mailto:borrellmanuel1@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
-  </a>
-
-  <a href="https://TU_WEBSITE.com" target="_blank">
-    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank" />
   </a>
 
 </div>
